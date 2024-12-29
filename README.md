@@ -1,4 +1,4 @@
-# ReliableUdpTransport
+# Reliable Udp
 
 A C# implementation of bidrectional, reliable (all data arrives once and in order) communication over UDP sockets, with support for message segmentation and reassembly.
 
